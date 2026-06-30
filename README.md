@@ -42,7 +42,7 @@ PeaceBlur is an experimental computer vision project that combines real-time han
 
 ---
 
-## Credit
+## Credits
 
 This project is based on and adapted from the original work by **Clara Mia Devira**.
 
