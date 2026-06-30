@@ -47,7 +47,6 @@ PeaceBlur is an experimental computer vision project that combines real-time han
 This project is based on and adapted from the original work by **Clara Mia Devira**.
 
 * Original Author: [@claramiadevira](https://github.com/claramiadevira)
-* Repository Owner & Maintainer: **Nur Islami Sabila**
 
 Special thanks to Clara Mia Devira for creating the original implementation and inspiring this project.
 
